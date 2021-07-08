@@ -1,4 +1,0 @@
-AAB [YES]
-ABB [YES]
-ABBAAB [YES]
-AAAB [NO]
